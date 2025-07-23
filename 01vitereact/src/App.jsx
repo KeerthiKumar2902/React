@@ -1,8 +1,12 @@
+import Chai from "./Chai"
 
 
 function App() {
   return (
-    <h1> Keerthi Kumar S with vite</h1>
+    <>
+      Chai()
+      <h1>Hello i am using the fragments </h1>
+    </>
   )
 }
 
