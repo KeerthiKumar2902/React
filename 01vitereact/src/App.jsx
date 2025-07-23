@@ -4,7 +4,7 @@ import Chai from "./Chai"
 function App() {
   return (
     <>
-      Chai()
+      <Chai/>
       <h1>Hello i am using the fragments </h1>
     </>
   )

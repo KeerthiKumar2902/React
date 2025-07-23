@@ -1,6 +1,7 @@
 function Chai(){
+    const username='Keerthi Kumar S'
     return (
-        <h1> Keerthi Kumar S with chai</h1>
+        <h1> {username} is seeing Chai aur React videos</h1>
     )
 }
 
